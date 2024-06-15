@@ -6,6 +6,8 @@
   - [Practicing Active Directory Home Lab](https://github.com/cyberjossy-sys/PowerShell)
 - <b>Wireshark Scanning Lab </b>
     - [Wireshark Scanning Lab](https://github.com/cyberjossy-sys/WiresharkScanningLab)
+- <b>PowerShell Lab </b>
+    - [PowerShell Lab](https://github.com/cyberjossy-sys/PowerShell)
 <h2> Certifications</h2>
 
 - [Splunk Certified Core User](https://www.youtube.com/watch?v=?????????)
