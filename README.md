@@ -4,7 +4,7 @@
 
 - <b>Active Directory Home Lab </b>
   - [Practicing Active Directory Home Lab](https://github.com/cyberjossy-sys/ADHomeLab)
-- <b>Wireshack Scanning Lab </b>
+- <b>Wireshark Scanning Lab </b>
     - [Wireshark Scanning Lab](https://github.com/cyberjossy-sys/WiresharkScanningLab)
 <h2> Certifications</h2>
 
