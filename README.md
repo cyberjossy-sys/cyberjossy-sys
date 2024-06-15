@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Active Directory Home Lab </b>
-  - [Practicing Active Directory Home Lab](https://github.com/cyberjossy-sys/ADHomeLab)
+  - [Practicing Active Directory Home Lab](https://github.com/cyberjossy-sys/PowerShell)
 - <b>Wireshark Scanning Lab </b>
     - [Wireshark Scanning Lab](https://github.com/cyberjossy-sys/WiresharkScanningLab)
 <h2> Certifications</h2>
